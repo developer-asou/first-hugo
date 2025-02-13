@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>はじめてのHugoサイト</title>
+    <link>https://example.org/</link>
+    <description>Recent content on はじめてのHugoサイト</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 13 Feb 2025 15:47:54 +0900</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>公開テスト</title>
+      <link>https://example.org/posts/public-post/</link>
+      <pubDate>Thu, 13 Feb 2025 15:47:54 +0900</pubDate>
+      <guid>https://example.org/posts/public-post/</guid>
+      <description>&lt;h1 id=&#34;公開テスト&#34;&gt;公開テスト&lt;/h1&gt;&#xA;&lt;p&gt;この記事は公開されます。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
